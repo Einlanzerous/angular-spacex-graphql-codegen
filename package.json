@@ -42,7 +42,7 @@
     "@angular/cli": "^9.1.1",
     "@angular/compiler-cli": "^9.1.2",
     "@angular/language-service": "~9.1.1",
-    "@graphql-codegen/cli": "^1.13.3",
+    "@graphql-codegen/cli": "^1.21.8",
     "@graphql-codegen/typescript": "^1.13.3",
     "@graphql-codegen/typescript-apollo-angular": "^1.13.3",
     "@graphql-codegen/typescript-operations": "^1.13.3",
